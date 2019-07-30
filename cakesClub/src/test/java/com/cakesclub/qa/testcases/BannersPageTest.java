@@ -25,6 +25,7 @@ public class BannersPageTest extends TestBase{
 	BannerSelection bannerSelection;
 	int bnrFunctionality=0;
 	int flag1=2;
+	int x= 2;
 	
 	public BannersPageTest(){
 		super();
